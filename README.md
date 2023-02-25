@@ -1,6 +1,6 @@
-# Ethereum-Fraud-Detection
+#Ethereum-Fraud-Detection
 
-Detecting Fraudulent Blockchain Accounts on Ethereum with Supervised Machine Learning
+Detecting Fraudulent Blockchain Accounts on Ethereum with Supervised Machine Learning using sklearn's Library
 
 ---
 
