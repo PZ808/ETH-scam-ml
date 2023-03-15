@@ -1,0 +1,2 @@
+address,avg_min_between_sent_txn,avg_min_between_received_txn,time_diff_between_first_and_last_mins,unique_received_from_addresses,min_val_received,max_val_received,min_val_sent,avg_val_sent,total_transactions_inc_cnts,total_ether_received,total_ether_balance
+0x41b309236c87b1bc6fa8eb865833e44158fa991a,3.99,69.2,100,237,0.100,0.999,0.0,0.247,55109,1643,3474.0
